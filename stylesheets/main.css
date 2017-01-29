@@ -1,0 +1,15 @@
+.icon-bar a {
+    padding: 0 10px;
+    float: left;
+    transition: all 0.3s ease;
+    color: white;
+}
+
+.icon-bar a i {
+    font-size: 24px;
+    color: grey;
+}
+
+.icon-bar i:hover {
+    color: #000;
+}
